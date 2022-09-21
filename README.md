@@ -23,3 +23,7 @@ Accessed: Sept 19, 2022
 ### Daily Covid Case Count Data
 Source: https://github.com/nytimes/covid-19-data/blob/master/us-states.csv
 Accessed: Sept 19, 2022
+
+### Population Density
+Source: https://www.census.gov/data/tables/time-series/dec/density-data-text.html
+Accessed: Sept 19, 2022
