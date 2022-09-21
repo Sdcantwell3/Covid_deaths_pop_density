@@ -18,4 +18,12 @@ Accessed: Sept 19, 2022
 
 ### Population Density Data
 Source: https://www2.census.gov/programs-surveys/decennial/2020/data/apportionment/population-density-data-table.xlsx
-Accessed: Sept 10, 2022
+Accessed: Sept 19, 2022
+
+### Daily Covid Case Count Data
+Source: https://github.com/nytimes/covid-19-data/blob/master/us-states.csv
+Accessed: Sept 19, 2022
+
+### Population Density
+Source: https://www.census.gov/data/tables/time-series/dec/density-data-text.html
+Accessed: Sept 19, 2022
