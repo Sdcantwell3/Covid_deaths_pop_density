@@ -1,0 +1,7 @@
+State,Predicted,Actual,Absolute Error,Relative Error,Percent Error
+Utah,10674,4989,5685,1.14,114
+Oregon,8111,8492,381,0.04,4
+Maine,2578,2561,17,0.01,1
+Connecticut,11214,11317,103,0.01,1
+Maryland,13126,15285,2159,0.14,14
+Massachusetts,22260,21536,724,0.03,3
