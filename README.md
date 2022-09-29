@@ -30,3 +30,6 @@ Accessed: Sept 19, 2022
 
 ### Tableau Covid Deaths Population Density
 https://public.tableau.com/app/profile/chad.dewey/viz/CovidDeathsPopulationDensity/Sheet1?publish=yes 
+
+### United States Vaccination Rates
+https://public.tableau.com/app/profile/chad.dewey/viz/UnitedStatesVaccinationRates/Sheet1?publish=yes 
