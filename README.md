@@ -27,3 +27,5 @@ Accessed: Sept 19, 2022
 ### Population Density
 Source: https://www.census.gov/data/tables/time-series/dec/density-data-text.html
 Accessed: Sept 19, 2022
+
+https://public.tableau.com/app/profile/chad.dewey/viz/CovidDeathsPopulationDensity/Sheet1?publish=yes 
