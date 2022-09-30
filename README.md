@@ -63,7 +63,7 @@ Source: https://www.census.gov/data/tables/time-series/dec/density-data-text.htm
 
 ## Data Aanlysis
 - We ran a number of trials through a supervised machine learning algorithm to build a model that we then tested on other states.
-- During the data analysis we looked at 3 states with simiilar poplulation and varying density.
+- During the data analysis we looked at 3 states with simiilar poplulation and varying population density.
 - After running a few trials we took a look at the Feature Importance  of our model and decided to further edit our data set to help accuracy.
 
 
