@@ -58,7 +58,7 @@ Source: https://www.census.gov/data/tables/time-series/dec/density-data-text.htm
 
 ## Data Exploration
 - We were able to combine a few of the data tables that we sourced online to get a dataset that had all relevant information by state.
-- We then went in and cleaned this dataset by dropped columns that were missing information or we deemed irrelevant to our projection.
+- We then went in and cleaned this dataset by dropping columns that were missing information or that we deemed irrelevant to our prediction.
 - We also went through and reformatted specific columns as needed.
 
 ## Data Aanlysis
