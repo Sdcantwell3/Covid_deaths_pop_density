@@ -10,7 +10,7 @@ Covid deaths for a given state.
 - We felt that the question and data would give us the ability to use a wide range of the skills we learned in class.
 
 ## Sourcing the Data
-Below are the websites that we utiilized to collect our data for the Analysis.
+Below are the websites that we utilized to collect our data for the Analysis.
 
 - COVID19_state.csv
 
