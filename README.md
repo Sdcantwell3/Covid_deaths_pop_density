@@ -65,7 +65,7 @@ Source: https://www.census.gov/data/tables/time-series/dec/density-data-text.htm
 - We ran a number of trials through a supervised machine learning algorithm to build a model that we then tested on other states.
 - During the data analysis we looked at 3 states with simiilar poplulation and varying population density.
 - After running a few trials we took a look at the Feature Importance breakdown of our model and decided to further edit our data set to help accuracy.
-- Our 5 trials can be found in the Final Challenge Code file in this repository.
+- Our 5 trials can be found in the "Final Challenge" Code file in this repository.
 
 
 ## Slides/Tableau Presentation Starter
