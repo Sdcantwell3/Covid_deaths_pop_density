@@ -7,12 +7,12 @@ Covid deaths for a given state.
 ## Project Detail
 
 
-### Why This Project?
+## Why This Project?
 - This topic has a large quantity of raw data that is easily accessed.
 - The subject matter was interesting to each member of the group.
 - We felt that the question and data would give us the ability to use a wide range of the skills we learned in class.
 
-### Sourcing the Data
+## Sourcing the Data
 Below are the websites that we utiilized to collect our data for the Analysis.
 
 - COVID19_state.csv
@@ -50,21 +50,21 @@ Accessed: Sept 19, 2022
 Source: https://www.census.gov/data/tables/time-series/dec/density-data-text.html
 Accessed: Sept 19, 2022
 
-### Data Storage
+## Data Storage
 - We used AWS to store and manipulate our raw data.
 
-### Questions to Answer
+## Questions to Answer
 
 - Primary: We are hoping to use a sample of 3 states and build a predictive model that gives us an accurate projection of total deaths in other states during the same time period.
 
 - Secondary: We are trying to prove that population density is a key factor in total death toll from Covid 19.
 
-### Data Exploration
+## Data Exploration
 - We were able to combine a few of the data tables that we sourced online to get a dataset that had all relevant information by state.
 - We then went in and cleaned this dataset by dropped columns that were missing information or we deemed irrelevant to our projection.
 - We also went through and reformatted specific columns as needed.
 
-### Data Aanlysis
+## Data Aanlysis
 - We ran a number of trials through a supervised machine learning algorithm to build a model that we then tested on other states.
 - During the data analysis we looked at 3 states with simiilar poplulation and varying density.
 - After running a few trials we took a look at the Feature Importance  of our model and decided to further edit our data set to help accuracy.
