@@ -50,13 +50,22 @@ Accessed: Sept 19, 2022
 Source: https://www.census.gov/data/tables/time-series/dec/density-data-text.html
 Accessed: Sept 19, 2022
 
+### Data Storage
+- We used AWS to store and manipulate our raw data.
+
+### Questions to Answer
+
+- Primary: We are hoping to use a sample of 3 states and build a predictive model that gives us an accurate projection of total deaths in other states during the same time period.
+
+- Secondary: We are trying to prove that population density is a key factor in total death toll from Covid 19.
+
 
 ## Tableau Presentation Starter
 
-### Tableau Covid Deaths Population Density
+- Tableau Covid Deaths Population Density
 https://public.tableau.com/app/profile/chad.dewey/viz/CovidDeathsPopulationDensity/Sheet1?publish=yes 
 
-### Tableau United States Vaccination Rates
+- Tableau United States Vaccination Rates
 https://public.tableau.com/app/profile/chad.dewey/viz/UnitedStatesVaccinationRates/Sheet1?publish=yes 
 ## Research Data Sources
 
