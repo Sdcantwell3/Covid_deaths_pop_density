@@ -4,9 +4,6 @@
 - We will be using supervised machine learning to build a Linear Regression model that we can use to predict total 
 Covid deaths for a given state.
 
-## Project Detail
-
-
 ## Why This Project?
 - This topic has a large quantity of raw data that is easily accessed.
 - The subject matter was interesting to each member of the group.
