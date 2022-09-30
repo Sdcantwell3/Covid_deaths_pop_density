@@ -1,4 +1,4 @@
-# Topic: We are trying to build a 
+# Topic: We are trying to build a model that will help predict the number of deaths in a given state.
 
 
 
