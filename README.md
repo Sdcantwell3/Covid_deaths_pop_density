@@ -59,8 +59,18 @@ Accessed: Sept 19, 2022
 
 - Secondary: We are trying to prove that population density is a key factor in total death toll from Covid 19.
 
+### Data Exploration
+- We were able to combine a few of the data tables that we sourced online to get a dataset that had all relevant information by state.
+- We then went in and cleaned this dataset by dropped columns that were missing information or we deemed irrelevant to our projection.
+- We also went through and reformatted specific columns as needed.
 
-## Tableau Presentation Starter
+### Data Aanlysis
+- We ran a number of trials through a supervised machine learning algorithm to build a model that we then tested on other states.
+- During the data analysis we looked at 3 states with simiilar poplulation and varying density.
+- After running a few trials we took a look at the Feature Importance  of our model and decided to further edit our data set to help accuracy.
+
+
+## Slides/Tableau Presentation Starter
 
 - Tableau Covid Deaths Population Density
 https://public.tableau.com/app/profile/chad.dewey/viz/CovidDeathsPopulationDensity/Sheet1?publish=yes 
