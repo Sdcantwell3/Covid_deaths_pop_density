@@ -52,9 +52,9 @@ Source: https://www.census.gov/data/tables/time-series/dec/density-data-text.htm
 
 ## Questions to Answer
 
-- Primary: We are hoping to use a sample of 3 states and build a predictive model that gives us an accurate prediction of total deaths in other states during the same time period.
+- Primary: Will our model accurately predict the total number of deaths of other states in this same time period?
 
-- Secondary: We are trying to prove that population density is a key factor in total death toll from Covid 19.
+- Secondary: Does population density play a factor in total covid deaths?
 
 ## Data Exploration
 - We were able to combine a few of the data tables that we sourced online to get a dataset that had all relevant information by state.
