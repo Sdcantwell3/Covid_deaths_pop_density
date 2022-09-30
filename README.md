@@ -74,5 +74,5 @@ https://public.tableau.com/app/profile/chad.dewey/viz/CovidDeathsPopulationDensi
 
 - Tableau United States Vaccination Rates
 https://public.tableau.com/app/profile/chad.dewey/viz/UnitedStatesVaccinationRates/Sheet1?publish=yes 
-## Research Data Sources
+
 
