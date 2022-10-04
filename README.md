@@ -71,11 +71,11 @@ Source: https://www.census.gov/data/tables/time-series/dec/density-data-text.htm
 ## Slides/Tableau Presentation Starter
 
 - Tableau Covid Deaths Population Density
-- 
+
 https://public.tableau.com/app/profile/chad.dewey/viz/CovidDeathsPopulationDensity/Sheet1?publish=yes 
 
 - Tableau United States Vaccination Rates
-- 
+
 https://public.tableau.com/app/profile/chad.dewey/viz/UnitedStatesVaccinationRates/Sheet1?publish=yes 
 
 - Google Slide Deck
