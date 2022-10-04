@@ -77,6 +77,7 @@ https://public.tableau.com/app/profile/chad.dewey/viz/CovidDeathsPopulationDensi
 https://public.tableau.com/app/profile/chad.dewey/viz/UnitedStatesVaccinationRates/Sheet1?publish=yes 
 
 - Google Slide Deck
+
 https://docs.google.com/presentation/d/1Ja0SUyTEC0ne-_Ct-EgvA5Jbjp-JjYM7w0O5e-mIss8/edit?usp=sharing
 
 
