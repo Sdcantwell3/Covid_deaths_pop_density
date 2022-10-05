@@ -1,0 +1,4 @@
+State,Predicted,Actual,Absolute Error,Relative Error,Percent Error
+Utah,1.78e+09,4.99e+03,1.78e+09,3.56e+05,3.56e+07
+Oregon,-2.73e+09,8.49e+03,2.73e+09,3.21e+05,3.21e+07
+Connecticut,-6.13e+08,1.13e+04,6.13e+08,5.42e+04,5.42e+06
