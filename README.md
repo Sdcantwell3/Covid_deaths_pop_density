@@ -69,9 +69,9 @@ Source: https://www.census.gov/data/tables/time-series/dec/density-data-text.htm
 
 ## Results
 
-- A summary and explanation of our results can be found at the link below.
+- A discussion of our findings can be found at the link below.
 
-Final_Challenge_code/Model_Questions.md
+- [Final_Challenge_code/Model_Questions.md](https://github.com/Sdcantwell3/Covid_deaths_pop_density/blob/899174348303250e541002643f6188b50ccae69b/Final_Challenge_code/Model_Questions.md)
 
 ## Slides/Tableau Presentation Starter
 
