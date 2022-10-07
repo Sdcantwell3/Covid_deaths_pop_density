@@ -67,6 +67,11 @@ Source: https://www.census.gov/data/tables/time-series/dec/density-data-text.htm
 - After running a few trials we took a look at the Feature Importance breakdown of our model and decided to further edit our data set to help accuracy.
 - Our 5 trials can be found in the "Final Challenge Code" file in this repository.
 
+## Results
+
+- A summary and explanation of our results can be found at the link below.
+
+Final_Challenge_code/Model_Questions.md
 
 ## Slides/Tableau Presentation Starter
 
