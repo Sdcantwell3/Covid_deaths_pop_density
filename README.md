@@ -61,7 +61,7 @@ Source: https://www.census.gov/data/tables/time-series/dec/density-data-text.htm
 - We then went in and cleaned this dataset by dropping columns that were missing information or that we deemed irrelevant to our prediction.
 - We also went through and reformatted specific columns as needed.
 
-## Data Aanlysis
+## Data Analysis
 - Linear regression supervised learning is the best suited model for making numerical based predictions.
 - We ran a number of trials through a supervised machine learning algorithm to build a model that we then tested on other states.
 - During the data analysis we looked at 3 states with simiilar poplulation and varying population density.
