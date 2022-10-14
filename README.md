@@ -65,7 +65,9 @@ Source: https://www.census.gov/data/tables/time-series/dec/density-data-text.htm
 - Linear regression supervised learning is the best suited model for making numerical based predictions.
 - We ran a number of trials through a supervised machine learning algorithm to build a model that we then tested on other states.
 - During the data analysis we looked at 3 states with simiilar poplulation and varying population density.
-- After running a few trials we took a look at the Feature Importance breakdown of our model and decided to further edit our data set to help accuracy.
+- After running a few trials we took a look at the Feature Importance breakdown of our model.
+- We determined that the "Gini" statistic was being weighted too heavily and removed it from the model.
+- After removing the "Gini" statistic the model weighted population density more heavily and yielded a more accurate prediction.
 - Our 5 trials can be found in the "Final Challenge Code" file in this repository.
 
 ## Results
