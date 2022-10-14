@@ -67,6 +67,7 @@ Source: https://www.census.gov/data/tables/time-series/dec/density-data-text.htm
 - During the data analysis we looked at 3 states with simiilar poplulation and varying population density.
 - After running a few trials we took a look at the Feature Importance breakdown of our model.
 - We determined that the "Gini" statistic was being weighted too heavily and removed it from the model.
+- The Gini statistic is a measure of income inequality.
 - After removing the "Gini" statistic the model weighted population density more heavily and yielded a more accurate prediction.
 - Our 5 trials can be found in the "Final Challenge Code" file in this repository.
 
