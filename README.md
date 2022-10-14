@@ -73,23 +73,14 @@ Source: https://www.census.gov/data/tables/time-series/dec/density-data-text.htm
 
 ## Results
 
- A discussion of our findings can be found at the link below.
+ - Results discussion can be found at the link below.
 
-- [Final_Challenge_code/Model_Questions.md](https://github.com/Sdcantwell3/Covid_deaths_pop_density/blob/899174348303250e541002643f6188b50ccae69b/Final_Challenge_code/Model_Questions.md)
-
-## Slides/Tableau Presentation Starter
-
-- Tableau Covid Deaths Population Density
-
-https://public.tableau.com/app/profile/chad.dewey/viz/CovidDeathsPopulationDensity/Sheet1?publish=yes 
-
-- Tableau United States Vaccination Rates
-
-https://public.tableau.com/app/profile/chad.dewey/viz/UnitedStatesVaccinationRates/Sheet1?publish=yes 
+ [Final_Challenge_code/Model_Questions.md](https://github.com/Sdcantwell3/Covid_deaths_pop_density/blob/899174348303250e541002643f6188b50ccae69b/Final_Challenge_code/Model_Questions.md)
 
 - Google Slide Deck
 
 https://docs.google.com/presentation/d/1Ja0SUyTEC0ne-_Ct-EgvA5Jbjp-JjYM7w0O5e-mIss8/edit?usp=sharing
 
 - Tableau Final
+
 https://public.tableau.com/app/profile/chad.dewey 
