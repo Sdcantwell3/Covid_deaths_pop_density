@@ -1,5 +1,7 @@
 # Covid Deaths by state and Population Density
 
+
+
 ## Project Discription
 - We will be using supervised machine learning to build a Linear Regression model that we can use to predict total 
 Covid deaths for a given state.
@@ -60,6 +62,9 @@ Source: https://www.census.gov/data/tables/time-series/dec/density-data-text.htm
 - We were able to combine a few of the data tables that we sourced online to get a dataset that had all relevant information by state.
 - We then went in and cleaned this dataset by dropping columns that were missing information or that we deemed irrelevant to our prediction.
 - We also went through and reformatted specific columns as needed.
+
+<img width="1357" alt="Screen Shot 2022-10-13 at 6 35 42 PM" src="https://user-images.githubusercontent.com/104115586/196054892-d0099407-064c-48f7-bf78-c245f7876e23.png">
+
 
 ## Data Analysis
 - Linear regression supervised learning is the best suited model for making numerical based predictions.
